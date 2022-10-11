@@ -8,38 +8,38 @@
   {
     "full_name": "linagora/tmail-flutter",
     "stargazers_count": 98,
-    "open_issues_count": 214,
+    "open_issues_count": 218,
     "forks_count": 24
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 325,
-    "open_issues_count": 15,
-    "forks_count": 25
+    "stargazers_count": 334,
+    "open_issues_count": 19,
+    "forks_count": 26
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 511,
+    "stargazers_count": 513,
     "open_issues_count": 1,
     "forks_count": 61
   },
   {
     "full_name": "ghostlexly/gpu-video-wallpaper",
     "stargazers_count": 127,
-    "open_issues_count": 10,
-    "forks_count": 7
+    "open_issues_count": 11,
+    "forks_count": 8
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 14346,
-    "open_issues_count": 35,
-    "forks_count": 373
+    "stargazers_count": 14453,
+    "open_issues_count": 32,
+    "forks_count": 378
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 6464,
+    "stargazers_count": 6476,
     "open_issues_count": 42,
-    "forks_count": 435
+    "forks_count": 436
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 62504,
-    "open_issues_count": 786,
-    "forks_count": 3048
+    "stargazers_count": 62564,
+    "open_issues_count": 792,
+    "forks_count": 3051
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 256,
+    "stargazers_count": 255,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "ultimatecourses/vault",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "shhdharmen/angular-material-theming-system-complete-guide",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 7712,
-    "open_issues_count": 1338,
-    "forks_count": 3940
+    "stargazers_count": 7718,
+    "open_issues_count": 1345,
+    "forks_count": 3942
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 4613,
-    "open_issues_count": 14,
+    "stargazers_count": 4620,
+    "open_issues_count": 15,
     "forks_count": 84
   },
   {
@@ -109,33 +109,33 @@
   },
   {
     "full_name": "npryce/adr-tools",
-    "stargazers_count": 3561,
+    "stargazers_count": 3568,
     "open_issues_count": 52,
     "forks_count": 503
   },
   {
     "full_name": "atinc/ngx-tethys",
     "stargazers_count": 76,
-    "open_issues_count": 6,
+    "open_issues_count": 3,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/accessibility-insights-web",
     "stargazers_count": 689,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 133
   },
   {
     "full_name": "loadingio/css-spinner",
-    "stargazers_count": 1420,
+    "stargazers_count": 1419,
     "open_issues_count": 2,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 211223,
-    "open_issues_count": 63,
-    "forks_count": 24173
+    "stargazers_count": 211854,
+    "open_issues_count": 62,
+    "forks_count": 24210
   },
   {
     "full_name": "OctoPerf/kraken",
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 19081,
+    "stargazers_count": 19087,
     "open_issues_count": 37,
     "forks_count": 688
   },
   {
     "full_name": "gios/gzipper",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 6,
     "forks_count": 11
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "just-jeb/angular-builders",
-    "stargazers_count": 1032,
-    "open_issues_count": 76,
+    "stargazers_count": 1033,
+    "open_issues_count": 77,
     "forks_count": 172
   },
   {
     "full_name": "rikukissa/typehole",
-    "stargazers_count": 1016,
+    "stargazers_count": 1020,
     "open_issues_count": 8,
     "forks_count": 10
   }
