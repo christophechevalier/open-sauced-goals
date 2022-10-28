@@ -1,27 +1,27 @@
 [
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 16867,
-    "open_issues_count": 1056,
-    "forks_count": 2873
+    "stargazers_count": 17622,
+    "open_issues_count": 1064,
+    "forks_count": 3058
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 352,
-    "open_issues_count": 9,
-    "forks_count": 17
+    "stargazers_count": 375,
+    "open_issues_count": 8,
+    "forks_count": 18
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 1260,
+    "stargazers_count": 1276,
     "open_issues_count": 1,
-    "forks_count": 169
+    "forks_count": 171
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 552,
-    "open_issues_count": 27,
-    "forks_count": 91
+    "stargazers_count": 585,
+    "open_issues_count": 34,
+    "forks_count": 100
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 100,
-    "open_issues_count": 221,
+    "stargazers_count": 101,
+    "open_issues_count": 219,
     "forks_count": 24
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 403,
+    "stargazers_count": 408,
     "open_issues_count": 23,
     "forks_count": 30
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 1,
     "forks_count": 61
   },
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 14758,
-    "open_issues_count": 33,
-    "forks_count": 391
+    "stargazers_count": 14882,
+    "open_issues_count": 35,
+    "forks_count": 393
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 6533,
-    "open_issues_count": 45,
-    "forks_count": 444
+    "stargazers_count": 6543,
+    "open_issues_count": 50,
+    "forks_count": 446
   },
   {
     "full_name": "bluelibs/bluelibs",
     "stargazers_count": 750,
-    "open_issues_count": 115,
+    "open_issues_count": 114,
     "forks_count": 25
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 62849,
-    "open_issues_count": 799,
-    "forks_count": 3070
+    "stargazers_count": 62914,
+    "open_issues_count": 805,
+    "forks_count": 3073
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 259,
+    "stargazers_count": 258,
     "open_issues_count": 1,
     "forks_count": 18
   },
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 7751,
-    "open_issues_count": 1388,
-    "forks_count": 3965
+    "stargazers_count": 7762,
+    "open_issues_count": 1396,
+    "forks_count": 3967
   },
   {
     "full_name": "styled-components/jest-styled-components",
-    "stargazers_count": 1537,
+    "stargazers_count": 1536,
     "open_issues_count": 111,
     "forks_count": 159
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 4648,
+    "stargazers_count": 4654,
     "open_issues_count": 17,
     "forks_count": 86
   },
@@ -133,33 +133,33 @@
   },
   {
     "full_name": "npryce/adr-tools",
-    "stargazers_count": 3593,
+    "stargazers_count": 3595,
     "open_issues_count": 53,
     "forks_count": 507
   },
   {
     "full_name": "atinc/ngx-tethys",
     "stargazers_count": 77,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 22
   },
   {
     "full_name": "microsoft/accessibility-insights-web",
-    "stargazers_count": 690,
-    "open_issues_count": 66,
-    "forks_count": 133
+    "stargazers_count": 691,
+    "open_issues_count": 67,
+    "forks_count": 134
   },
   {
     "full_name": "loadingio/css-spinner",
-    "stargazers_count": 1427,
+    "stargazers_count": 1430,
     "open_issues_count": 2,
     "forks_count": 210
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 212988,
+    "stargazers_count": 213233,
     "open_issues_count": 62,
-    "forks_count": 24343
+    "forks_count": 24387
   },
   {
     "full_name": "OctoPerf/kraken",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 19121,
+    "stargazers_count": 19123,
     "open_issues_count": 37,
     "forks_count": 688
   }
