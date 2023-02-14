@@ -1,7 +1,7 @@
 [
   {
     "full_name": "linagora/linshare",
-    "stargazers_count": 402,
+    "stargazers_count": 403,
     "open_issues_count": 52,
     "forks_count": 78
   },
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 31736,
-    "open_issues_count": 1347,
-    "forks_count": 6083
+    "stargazers_count": 32604,
+    "open_issues_count": 1380,
+    "forks_count": 6249
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 640,
-    "open_issues_count": 12,
+    "stargazers_count": 641,
+    "open_issues_count": 13,
     "forks_count": 39
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 2847,
+    "stargazers_count": 2991,
     "open_issues_count": 0,
-    "forks_count": 464
+    "forks_count": 489
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1401,
-    "open_issues_count": 99,
-    "forks_count": 363
+    "stargazers_count": 1415,
+    "open_issues_count": 103,
+    "forks_count": 365
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 130,
-    "open_issues_count": 191,
+    "stargazers_count": 132,
+    "open_issues_count": 199,
     "forks_count": 27
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 774,
-    "open_issues_count": 23,
-    "forks_count": 54
+    "stargazers_count": 782,
+    "open_issues_count": 24,
+    "forks_count": 55
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 523,
+    "stargazers_count": 524,
     "open_issues_count": 1,
     "forks_count": 62
   },
   {
     "full_name": "ghostlexly/gpu-video-wallpaper",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16555,
+    "stargazers_count": 16589,
     "open_issues_count": 35,
-    "forks_count": 440
+    "forks_count": 444
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7188,
-    "open_issues_count": 54,
-    "forks_count": 475
+    "stargazers_count": 7215,
+    "open_issues_count": 53,
+    "forks_count": 476
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 65499,
-    "open_issues_count": 901,
-    "forks_count": 3199
+    "stargazers_count": 65630,
+    "open_issues_count": 909,
+    "forks_count": 3209
   },
   {
     "full_name": "davidmarkclements/rfdc",
-    "stargazers_count": 544,
+    "stargazers_count": 547,
     "open_issues_count": 12,
     "forks_count": 23
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 299,
+    "stargazers_count": 300,
     "open_issues_count": 3,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "ultimatecourses/vault",
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "shhdharmen/angular-material-theming-system-complete-guide",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 7956,
-    "open_issues_count": 427,
-    "forks_count": 4061
+    "stargazers_count": 7960,
+    "open_issues_count": 433,
+    "forks_count": 4067
   },
   {
     "full_name": "styled-components/jest-styled-components",
-    "stargazers_count": 1556,
+    "stargazers_count": 1558,
     "open_issues_count": 116,
     "forks_count": 160
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5264,
+    "stargazers_count": 5271,
     "open_issues_count": 13,
-    "forks_count": 93
+    "forks_count": 92
   },
   {
     "full_name": "rangle/angular-devtools",
@@ -139,39 +139,39 @@
   },
   {
     "full_name": "willmendesneto/ngx-skeleton-loader",
-    "stargazers_count": 462,
-    "open_issues_count": 4,
+    "stargazers_count": 464,
+    "open_issues_count": 3,
     "forks_count": 45
   },
   {
     "full_name": "npryce/adr-tools",
-    "stargazers_count": 3761,
+    "stargazers_count": 3767,
     "open_issues_count": 58,
     "forks_count": 535
   },
   {
     "full_name": "atinc/ngx-tethys",
     "stargazers_count": 82,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "microsoft/accessibility-insights-web",
     "stargazers_count": 710,
-    "open_issues_count": 72,
+    "open_issues_count": 74,
     "forks_count": 137
   },
   {
     "full_name": "loadingio/css-spinner",
-    "stargazers_count": 1505,
+    "stargazers_count": 1508,
     "open_issues_count": 5,
     "forks_count": 219
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 227574,
-    "open_issues_count": 132,
-    "forks_count": 25916
+    "stargazers_count": 228007,
+    "open_issues_count": 134,
+    "forks_count": 25962
   },
   {
     "full_name": "OctoPerf/kraken",
