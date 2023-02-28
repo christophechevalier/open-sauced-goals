@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "manekinekko/angular-web-bluetooth",
+    "stargazers_count": 185,
+    "open_issues_count": 1,
+    "forks_count": 52
+  },
+  {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9438,
-    "open_issues_count": 4494,
-    "forks_count": 1665
+    "stargazers_count": 9454,
+    "open_issues_count": 4510,
+    "forks_count": 1669
   },
   {
     "full_name": "linagora/linshare",
@@ -19,26 +25,26 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 38671,
-    "open_issues_count": 1440,
-    "forks_count": 7224
+    "stargazers_count": 40924,
+    "open_issues_count": 1491,
+    "forks_count": 7598
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 657,
+    "stargazers_count": 662,
     "open_issues_count": 16,
     "forks_count": 40
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 3275,
-    "open_issues_count": 0,
-    "forks_count": 561
+    "stargazers_count": 3507,
+    "open_issues_count": 1,
+    "forks_count": 583
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1454,
-    "open_issues_count": 107,
+    "stargazers_count": 1478,
+    "open_issues_count": 106,
     "forks_count": 380
   },
   {
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 132,
-    "open_issues_count": 180,
+    "stargazers_count": 133,
+    "open_issues_count": 164,
     "forks_count": 28
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 837,
-    "open_issues_count": 27,
-    "forks_count": 61
+    "stargazers_count": 845,
+    "open_issues_count": 26,
+    "forks_count": 63
   },
   {
     "full_name": "gund/ng-dynamic-component",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16660,
+    "stargazers_count": 16686,
     "open_issues_count": 32,
-    "forks_count": 445
+    "forks_count": 444
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7268,
-    "open_issues_count": 55,
-    "forks_count": 485
+    "stargazers_count": 7288,
+    "open_issues_count": 51,
+    "forks_count": 484
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 65871,
-    "open_issues_count": 883,
-    "forks_count": 3222
+    "stargazers_count": 65950,
+    "open_issues_count": 857,
+    "forks_count": 3227
   },
   {
     "full_name": "davidmarkclements/rfdc",
-    "stargazers_count": 547,
+    "stargazers_count": 548,
     "open_issues_count": 13,
     "forks_count": 23
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 304,
+    "stargazers_count": 308,
     "open_issues_count": 3,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "ultimatecourses/vault",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 7984,
-    "open_issues_count": 467,
-    "forks_count": 4086
+    "stargazers_count": 7992,
+    "open_issues_count": 468,
+    "forks_count": 4089
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5303,
+    "stargazers_count": 5308,
     "open_issues_count": 13,
     "forks_count": 93
   },
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "willmendesneto/ngx-skeleton-loader",
-    "stargazers_count": 466,
-    "open_issues_count": 3,
+    "stargazers_count": 468,
+    "open_issues_count": 2,
     "forks_count": 45
   },
   {
     "full_name": "npryce/adr-tools",
-    "stargazers_count": 3789,
+    "stargazers_count": 3797,
     "open_issues_count": 58,
-    "forks_count": 539
+    "forks_count": 541
   },
   {
     "full_name": "atinc/ngx-tethys",
-    "stargazers_count": 83,
-    "open_issues_count": 6,
+    "stargazers_count": 84,
+    "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "microsoft/accessibility-insights-web",
-    "stargazers_count": 714,
-    "open_issues_count": 77,
-    "forks_count": 139
+    "stargazers_count": 716,
+    "open_issues_count": 76,
+    "forks_count": 138
   },
   {
     "full_name": "loadingio/css-spinner",
-    "stargazers_count": 1512,
+    "stargazers_count": 1516,
     "open_issues_count": 5,
     "forks_count": 220
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "stargazers_count": 229065,
-    "open_issues_count": 145,
-    "forks_count": 26087
   }
 ]
