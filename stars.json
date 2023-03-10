@@ -1,13 +1,13 @@
 [
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 32431,
-    "open_issues_count": 394,
-    "forks_count": 1878
+    "stargazers_count": 32557,
+    "open_issues_count": 389,
+    "forks_count": 1890
   },
   {
     "full_name": "junaid33/opensource.builders",
-    "stargazers_count": 1184,
+    "stargazers_count": 1186,
     "open_issues_count": 187,
     "forks_count": 165
   },
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9483,
-    "open_issues_count": 4509,
-    "forks_count": 1679
+    "stargazers_count": 9499,
+    "open_issues_count": 4507,
+    "forks_count": 1680
   },
   {
     "full_name": "linagora/linshare",
     "stargazers_count": 404,
-    "open_issues_count": 56,
+    "open_issues_count": 55,
     "forks_count": 78
   },
   {
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 44474,
-    "open_issues_count": 1546,
-    "forks_count": 8212
+    "stargazers_count": 45785,
+    "open_issues_count": 1577,
+    "forks_count": 8453
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 677,
+    "stargazers_count": 682,
     "open_issues_count": 16,
     "forks_count": 42
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 4116,
+    "stargazers_count": 4257,
     "open_issues_count": 0,
-    "forks_count": 649
+    "forks_count": 671
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1504,
+    "stargazers_count": 1522,
     "open_issues_count": 110,
-    "forks_count": 383
+    "forks_count": 385
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 139,
-    "open_issues_count": 189,
-    "forks_count": 28
+    "stargazers_count": 141,
+    "open_issues_count": 207,
+    "forks_count": 29
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 856,
-    "open_issues_count": 28,
+    "stargazers_count": 860,
+    "open_issues_count": 29,
     "forks_count": 65
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 1,
     "forks_count": 62
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16746,
+    "stargazers_count": 16772,
     "open_issues_count": 30,
-    "forks_count": 448
+    "forks_count": 446
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7321,
-    "open_issues_count": 51,
-    "forks_count": 493
+    "stargazers_count": 7386,
+    "open_issues_count": 56,
+    "forks_count": 495
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 66103,
-    "open_issues_count": 840,
-    "forks_count": 3236
+    "stargazers_count": 66171,
+    "open_issues_count": 846,
+    "forks_count": 3238
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 309,
-    "open_issues_count": 3,
+    "stargazers_count": 312,
+    "open_issues_count": 4,
     "forks_count": 23
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8006,
-    "open_issues_count": 489,
-    "forks_count": 4095
+    "stargazers_count": 8014,
+    "open_issues_count": 501,
+    "forks_count": 4099
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5321,
-    "open_issues_count": 13,
+    "stargazers_count": 5334,
+    "open_issues_count": 15,
     "forks_count": 93
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "willmendesneto/ngx-skeleton-loader",
-    "stargazers_count": 468,
+    "stargazers_count": 469,
     "open_issues_count": 2,
     "forks_count": 45
   },
   {
     "full_name": "npryce/adr-tools",
-    "stargazers_count": 3808,
+    "stargazers_count": 3815,
     "open_issues_count": 58,
     "forks_count": 544
   },
   {
     "full_name": "atinc/ngx-tethys",
     "stargazers_count": 84,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 24
   }
 ]
