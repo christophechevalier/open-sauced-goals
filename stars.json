@@ -1,9 +1,9 @@
 [
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 1658,
-    "open_issues_count": 7,
-    "forks_count": 1328
+    "stargazers_count": 1733,
+    "open_issues_count": 9,
+    "forks_count": 1371
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 32975,
-    "open_issues_count": 450,
-    "forks_count": 1935
+    "stargazers_count": 33092,
+    "open_issues_count": 445,
+    "forks_count": 1950
   },
   {
     "full_name": "junaid33/opensource.builders",
-    "stargazers_count": 1187,
+    "stargazers_count": 1188,
     "open_issues_count": 188,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "manekinekko/angular-web-bluetooth",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9563,
-    "open_issues_count": 4463,
-    "forks_count": 1696
+    "stargazers_count": 9574,
+    "open_issues_count": 4497,
+    "forks_count": 1698
   },
   {
     "full_name": "linagora/linshare",
     "stargazers_count": 408,
     "open_issues_count": 57,
-    "forks_count": 78
+    "forks_count": 77
   },
   {
     "full_name": "mainawycliffe/ng-cdk-stepper-example",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 52469,
-    "open_issues_count": 1687,
-    "forks_count": 9692
+    "stargazers_count": 54315,
+    "open_issues_count": 1746,
+    "forks_count": 10043
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 700,
-    "open_issues_count": 17,
-    "forks_count": 45
+    "stargazers_count": 701,
+    "open_issues_count": 18,
+    "forks_count": 46
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 4935,
+    "stargazers_count": 6696,
     "open_issues_count": 0,
-    "forks_count": 786
+    "forks_count": 903
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1570,
-    "open_issues_count": 112,
-    "forks_count": 391
+    "stargazers_count": 1582,
+    "open_issues_count": 113,
+    "forks_count": 394
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -80,14 +80,14 @@
   {
     "full_name": "linagora/tmail-flutter",
     "stargazers_count": 146,
-    "open_issues_count": 210,
+    "open_issues_count": 216,
     "forks_count": 29
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 874,
-    "open_issues_count": 29,
-    "forks_count": 68
+    "stargazers_count": 879,
+    "open_issues_count": 33,
+    "forks_count": 67
   },
   {
     "full_name": "gund/ng-dynamic-component",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "ghostlexly/gpu-video-wallpaper",
-    "stargazers_count": 142,
+    "stargazers_count": 144,
     "open_issues_count": 12,
     "forks_count": 7
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16874,
-    "open_issues_count": 39,
+    "stargazers_count": 16896,
+    "open_issues_count": 41,
     "forks_count": 449
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7459,
-    "open_issues_count": 52,
-    "forks_count": 496
+    "stargazers_count": 7472,
+    "open_issues_count": 51,
+    "forks_count": 497
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 66464,
-    "open_issues_count": 821,
-    "forks_count": 3251
+    "stargazers_count": 66548,
+    "open_issues_count": 819,
+    "forks_count": 3259
   },
   {
     "full_name": "davidmarkclements/rfdc",
-    "stargazers_count": 550,
+    "stargazers_count": 551,
     "open_issues_count": 13,
     "forks_count": 23
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 321,
+    "stargazers_count": 322,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "ultimatecourses/vault",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8043,
-    "open_issues_count": 533,
+    "stargazers_count": 8044,
+    "open_issues_count": 541,
     "forks_count": 4116
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5364,
+    "stargazers_count": 5377,
     "open_issues_count": 19,
     "forks_count": 95
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "willmendesneto/ngx-skeleton-loader",
-    "stargazers_count": 470,
+    "stargazers_count": 471,
     "open_issues_count": 1,
     "forks_count": 45
   }
