@@ -1,9 +1,9 @@
 [
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 1780,
+    "stargazers_count": 1821,
     "open_issues_count": 10,
-    "forks_count": 1415
+    "forks_count": 1439
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 33191,
-    "open_issues_count": 453,
-    "forks_count": 1957
+    "stargazers_count": 33273,
+    "open_issues_count": 454,
+    "forks_count": 1970
   },
   {
     "full_name": "junaid33/opensource.builders",
-    "stargazers_count": 1188,
+    "stargazers_count": 1191,
     "open_issues_count": 188,
     "forks_count": 168
   },
@@ -31,45 +31,45 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9583,
-    "open_issues_count": 4358,
-    "forks_count": 1704
+    "stargazers_count": 9597,
+    "open_issues_count": 4305,
+    "forks_count": 1709
   },
   {
     "full_name": "linagora/linshare",
     "stargazers_count": 409,
-    "open_issues_count": 57,
+    "open_issues_count": 58,
     "forks_count": 77
   },
   {
     "full_name": "mainawycliffe/ng-cdk-stepper-example",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 56007,
-    "open_issues_count": 1788,
-    "forks_count": 10371
+    "stargazers_count": 58013,
+    "open_issues_count": 1846,
+    "forks_count": 10769
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 706,
-    "open_issues_count": 19,
+    "stargazers_count": 713,
+    "open_issues_count": 18,
     "forks_count": 46
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 7349,
+    "stargazers_count": 7729,
     "open_issues_count": 0,
-    "forks_count": 974
+    "forks_count": 1027
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1594,
+    "stargazers_count": 1609,
     "open_issues_count": 115,
-    "forks_count": 400
+    "forks_count": 404
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -80,14 +80,14 @@
   {
     "full_name": "linagora/tmail-flutter",
     "stargazers_count": 146,
-    "open_issues_count": 199,
-    "forks_count": 28
+    "open_issues_count": 205,
+    "forks_count": 27
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 896,
-    "open_issues_count": 31,
-    "forks_count": 69
+    "stargazers_count": 910,
+    "open_issues_count": 33,
+    "forks_count": 70
   },
   {
     "full_name": "gund/ng-dynamic-component",
@@ -98,32 +98,32 @@
   {
     "full_name": "ghostlexly/gpu-video-wallpaper",
     "stargazers_count": 145,
-    "open_issues_count": 12,
-    "forks_count": 7
+    "open_issues_count": 13,
+    "forks_count": 8
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16923,
-    "open_issues_count": 41,
-    "forks_count": 454
+    "stargazers_count": 17019,
+    "open_issues_count": 37,
+    "forks_count": 460
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7484,
-    "open_issues_count": 50,
-    "forks_count": 499
+    "stargazers_count": 7498,
+    "open_issues_count": 55,
+    "forks_count": 500
   },
   {
     "full_name": "bluelibs/bluelibs",
-    "stargazers_count": 758,
+    "stargazers_count": 759,
     "open_issues_count": 114,
     "forks_count": 26
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 66618,
-    "open_issues_count": 815,
-    "forks_count": 3260
+    "stargazers_count": 66704,
+    "open_issues_count": 817,
+    "forks_count": 3261
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 323,
+    "stargazers_count": 325,
     "open_issues_count": 1,
     "forks_count": 25
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8046,
-    "open_issues_count": 547,
-    "forks_count": 4122
+    "stargazers_count": 8058,
+    "open_issues_count": 555,
+    "forks_count": 4127
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5387,
-    "open_issues_count": 19,
+    "stargazers_count": 5401,
+    "open_issues_count": 18,
     "forks_count": 95
   },
   {
