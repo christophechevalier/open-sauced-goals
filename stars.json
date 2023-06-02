@@ -1,15 +1,15 @@
 [
   {
     "full_name": "dart-lang/language",
-    "stargazers_count": 2300,
-    "open_issues_count": 940,
-    "forks_count": 189
+    "stargazers_count": 2303,
+    "open_issues_count": 942,
+    "forks_count": 188
   },
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 2154,
-    "open_issues_count": 23,
-    "forks_count": 1749
+    "stargazers_count": 2163,
+    "open_issues_count": 22,
+    "forks_count": 1756
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 35216,
-    "open_issues_count": 549,
-    "forks_count": 2144
+    "stargazers_count": 35302,
+    "open_issues_count": 547,
+    "forks_count": 2148
   },
   {
     "full_name": "junaid33/opensource.builders",
-    "stargazers_count": 1203,
+    "stargazers_count": 1205,
     "open_issues_count": 191,
     "forks_count": 171
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9771,
-    "open_issues_count": 3687,
-    "forks_count": 1762
+    "stargazers_count": 9785,
+    "open_issues_count": 3686,
+    "forks_count": 1761
   },
   {
     "full_name": "linagora/linshare",
-    "stargazers_count": 410,
+    "stargazers_count": 411,
     "open_issues_count": 64,
     "forks_count": 77
   },
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 79181,
-    "open_issues_count": 1913,
-    "forks_count": 15296
+    "stargazers_count": 80101,
+    "open_issues_count": 1921,
+    "forks_count": 15478
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 827,
-    "open_issues_count": 17,
+    "stargazers_count": 831,
+    "open_issues_count": 16,
     "forks_count": 58
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 9831,
+    "stargazers_count": 9878,
     "open_issues_count": 0,
-    "forks_count": 1364
+    "forks_count": 1372
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1735,
+    "stargazers_count": 1736,
     "open_issues_count": 125,
-    "forks_count": 452
+    "forks_count": 453
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 159,
-    "open_issues_count": 190,
+    "stargazers_count": 163,
+    "open_issues_count": 200,
     "forks_count": 31
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 1214,
-    "open_issues_count": 40,
+    "stargazers_count": 1229,
+    "open_issues_count": 42,
     "forks_count": 86
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 536,
+    "stargazers_count": 537,
     "open_issues_count": 1,
     "forks_count": 62
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 17516,
-    "open_issues_count": 26,
-    "forks_count": 469
+    "stargazers_count": 17876,
+    "open_issues_count": 29,
+    "forks_count": 476
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 7853,
-    "open_issues_count": 53,
-    "forks_count": 511
+    "stargazers_count": 7905,
+    "open_issues_count": 55,
+    "forks_count": 512
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 68079,
-    "open_issues_count": 830,
-    "forks_count": 3329
+    "stargazers_count": 68155,
+    "open_issues_count": 838,
+    "forks_count": 3331
   },
   {
     "full_name": "davidmarkclements/rfdc",
-    "stargazers_count": 559,
+    "stargazers_count": 560,
     "open_issues_count": 14,
     "forks_count": 23
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 364,
+    "stargazers_count": 366,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8188,
-    "open_issues_count": 669,
-    "forks_count": 4173
+    "stargazers_count": 8196,
+    "open_issues_count": 680,
+    "forks_count": 4176
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5649,
-    "open_issues_count": 25,
+    "stargazers_count": 5663,
+    "open_issues_count": 23,
     "forks_count": 104
   },
   {
