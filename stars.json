@@ -1,15 +1,15 @@
 [
   {
     "full_name": "dart-lang/language",
-    "stargazers_count": 2318,
+    "stargazers_count": 2322,
     "open_issues_count": 950,
     "forks_count": 188
   },
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 2202,
+    "stargazers_count": 2224,
     "open_issues_count": 22,
-    "forks_count": 1798
+    "forks_count": 1814
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 35652,
-    "open_issues_count": 475,
-    "forks_count": 2177
+    "stargazers_count": 35737,
+    "open_issues_count": 486,
+    "forks_count": 2184
   },
   {
     "full_name": "junaid33/opensource.builders",
-    "stargazers_count": 1208,
+    "stargazers_count": 1209,
     "open_issues_count": 191,
     "forks_count": 172
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9826,
-    "open_issues_count": 3663,
-    "forks_count": 1769
+    "stargazers_count": 9835,
+    "open_issues_count": 3668,
+    "forks_count": 1771
   },
   {
     "full_name": "linagora/linshare",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 83830,
-    "open_issues_count": 1970,
-    "forks_count": 16236
+    "stargazers_count": 84825,
+    "open_issues_count": 1992,
+    "forks_count": 16441
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 848,
-    "open_issues_count": 18,
-    "forks_count": 59
+    "stargazers_count": 851,
+    "open_issues_count": 19,
+    "forks_count": 60
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 10104,
+    "stargazers_count": 10160,
     "open_issues_count": 0,
-    "forks_count": 1399
+    "forks_count": 1404
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1752,
+    "stargazers_count": 1756,
     "open_issues_count": 125,
-    "forks_count": 457
+    "forks_count": 460
   },
   {
     "full_name": "jcabannes/nx-angular-ngxs-jest",
@@ -86,14 +86,14 @@
   {
     "full_name": "linagora/tmail-flutter",
     "stargazers_count": 166,
-    "open_issues_count": 196,
+    "open_issues_count": 197,
     "forks_count": 33
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 1265,
-    "open_issues_count": 42,
-    "forks_count": 86
+    "stargazers_count": 1271,
+    "open_issues_count": 39,
+    "forks_count": 88
   },
   {
     "full_name": "gund/ng-dynamic-component",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 18865,
-    "open_issues_count": 26,
-    "forks_count": 498
+    "stargazers_count": 19015,
+    "open_issues_count": 22,
+    "forks_count": 512
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 8165,
+    "stargazers_count": 8187,
     "open_issues_count": 49,
-    "forks_count": 520
+    "forks_count": 523
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 68475,
-    "open_issues_count": 847,
-    "forks_count": 3350
+    "stargazers_count": 68568,
+    "open_issues_count": 838,
+    "forks_count": 3352
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 381,
+    "stargazers_count": 383,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8239,
-    "open_issues_count": 728,
-    "forks_count": 4186
+    "stargazers_count": 8256,
+    "open_issues_count": 704,
+    "forks_count": 4189
   },
   {
     "full_name": "styled-components/jest-styled-components",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5695,
+    "stargazers_count": 5703,
     "open_issues_count": 23,
     "forks_count": 106
   },
