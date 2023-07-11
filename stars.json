@@ -1,15 +1,15 @@
 [
   {
     "full_name": "dart-lang/language",
-    "stargazers_count": 2333,
-    "open_issues_count": 979,
+    "stargazers_count": 2338,
+    "open_issues_count": 989,
     "forks_count": 189
   },
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 2269,
-    "open_issues_count": 10,
-    "forks_count": 1862
+    "stargazers_count": 2276,
+    "open_issues_count": 11,
+    "forks_count": 1873
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 36130,
-    "open_issues_count": 500,
-    "forks_count": 2218
+    "stargazers_count": 36422,
+    "open_issues_count": 506,
+    "forks_count": 2232
   },
   {
     "full_name": "junaid33/opensource.builders",
     "stargazers_count": 1212,
-    "open_issues_count": 189,
-    "forks_count": 177
+    "open_issues_count": 190,
+    "forks_count": 178
   },
   {
     "full_name": "manekinekko/angular-web-bluetooth",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "vector-im/element-web",
-    "stargazers_count": 9872,
-    "open_issues_count": 3630,
-    "forks_count": 1780
+    "stargazers_count": 9879,
+    "open_issues_count": 3568,
+    "forks_count": 1782
   },
   {
     "full_name": "linagora/linshare",
-    "stargazers_count": 413,
+    "stargazers_count": 414,
     "open_issues_count": 65,
     "forks_count": 77
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 89020,
-    "open_issues_count": 2066,
-    "forks_count": 17473
+    "stargazers_count": 89835,
+    "open_issues_count": 2028,
+    "forks_count": 17701
   },
   {
     "full_name": "benrugg/AI-Render",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 10345,
+    "stargazers_count": 10372,
     "open_issues_count": 0,
-    "forks_count": 1445
+    "forks_count": 1447
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1767,
-    "open_issues_count": 125,
+    "stargazers_count": 1774,
+    "open_issues_count": 126,
     "forks_count": 468
   },
   {
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "linagora/tmail-flutter",
-    "stargazers_count": 173,
-    "open_issues_count": 205,
+    "stargazers_count": 175,
+    "open_issues_count": 209,
     "forks_count": 35
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 1337,
-    "open_issues_count": 30,
-    "forks_count": 99
+    "stargazers_count": 1351,
+    "open_issues_count": 26,
+    "forks_count": 102
   },
   {
     "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 540,
+    "stargazers_count": 541,
     "open_issues_count": 1,
     "forks_count": 62
   },
   {
     "full_name": "ghostlexly/gpu-video-wallpaper",
-    "stargazers_count": 148,
-    "open_issues_count": 8,
-    "forks_count": 10
+    "stargazers_count": 149,
+    "open_issues_count": 7,
+    "forks_count": 11
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 20777,
-    "open_issues_count": 23,
-    "forks_count": 718
+    "stargazers_count": 20893,
+    "open_issues_count": 25,
+    "forks_count": 725
   },
   {
     "full_name": "Unleash/unleash",
-    "stargazers_count": 8462,
-    "open_issues_count": 36,
-    "forks_count": 534
+    "stargazers_count": 8516,
+    "open_issues_count": 51,
+    "forks_count": 533
   },
   {
     "full_name": "bluelibs/bluelibs",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 70695,
-    "open_issues_count": 839,
-    "forks_count": 3916
+    "stargazers_count": 70796,
+    "open_issues_count": 840,
+    "forks_count": 3922
   },
   {
     "full_name": "davidmarkclements/rfdc",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "antfu/vscode-theme-vitesse",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 27
   },
   {
     "full_name": "ultimatecourses/vault",
@@ -157,20 +157,20 @@
   },
   {
     "full_name": "primefaces/primeng",
-    "stargazers_count": 8311,
-    "open_issues_count": 737,
+    "stargazers_count": 8326,
+    "open_issues_count": 738,
     "forks_count": 4202
   },
   {
     "full_name": "styled-components/jest-styled-components",
-    "stargazers_count": 1571,
-    "open_issues_count": 118,
+    "stargazers_count": 1572,
+    "open_issues_count": 117,
     "forks_count": 160
   },
   {
     "full_name": "orhun/git-cliff",
-    "stargazers_count": 5771,
-    "open_issues_count": 35,
+    "stargazers_count": 5782,
+    "open_issues_count": 36,
     "forks_count": 107
   },
   {
