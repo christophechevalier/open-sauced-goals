@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "romboHQ/tailwindcss-motion",
+    "stargazers_count": 1535,
+    "open_issues_count": 11,
+    "forks_count": 21
+  },
+  {
     "full_name": "version-fox/vfox",
-    "stargazers_count": 2892,
-    "open_issues_count": 67,
-    "forks_count": 102
+    "stargazers_count": 2903,
+    "open_issues_count": 68,
+    "forks_count": 103
   },
   {
     "full_name": "bumbeishvili/org-chart",
@@ -13,57 +19,57 @@
   },
   {
     "full_name": "siduck/chadwm",
-    "stargazers_count": 2248,
+    "stargazers_count": 2247,
     "open_issues_count": 10,
     "forks_count": 170
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 47237,
-    "open_issues_count": 4076,
-    "forks_count": 7003
+    "stargazers_count": 47267,
+    "open_issues_count": 4058,
+    "forks_count": 7004
   },
   {
     "full_name": "jgraph/drawio-desktop",
-    "stargazers_count": 51006,
-    "open_issues_count": 102,
-    "forks_count": 5038
+    "stargazers_count": 51082,
+    "open_issues_count": 101,
+    "forks_count": 5043
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 16313,
-    "open_issues_count": 282,
-    "forks_count": 845
+    "stargazers_count": 16387,
+    "open_issues_count": 278,
+    "forks_count": 853
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 70901,
-    "open_issues_count": 644,
-    "forks_count": 7715
+    "stargazers_count": 70961,
+    "open_issues_count": 648,
+    "forks_count": 7721
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 48919,
-    "open_issues_count": 158,
-    "forks_count": 5996
+    "stargazers_count": 49464,
+    "open_issues_count": 153,
+    "forks_count": 6070
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 56926,
-    "open_issues_count": 336,
-    "forks_count": 8566
+    "stargazers_count": 56981,
+    "open_issues_count": 338,
+    "forks_count": 8580
   },
   {
     "full_name": "rocksdanister/lively",
-    "stargazers_count": 15263,
-    "open_issues_count": 315,
-    "forks_count": 1070
+    "stargazers_count": 15290,
+    "open_issues_count": 314,
+    "forks_count": 1073
   },
   {
     "full_name": "verdaccio/verdaccio",
-    "stargazers_count": 16491,
-    "open_issues_count": 66,
-    "forks_count": 1375
+    "stargazers_count": 16515,
+    "open_issues_count": 63,
+    "forks_count": 1376
   },
   {
     "full_name": "eneajaho/ngx-libs",
@@ -73,21 +79,21 @@
   },
   {
     "full_name": "guoyww/AnimateDiff",
-    "stargazers_count": 10648,
-    "open_issues_count": 291,
+    "stargazers_count": 10656,
+    "open_issues_count": 290,
     "forks_count": 874
   },
   {
     "full_name": "dart-lang/language",
     "stargazers_count": 2677,
-    "open_issues_count": 1243,
+    "open_issues_count": 1245,
     "forks_count": 205
   },
   {
     "full_name": "openai/openai-quickstart-node",
-    "stargazers_count": 2545,
+    "stargazers_count": 2546,
     "open_issues_count": 1,
-    "forks_count": 1991
+    "forks_count": 1992
   },
   {
     "full_name": "nrwl/nx-incremental-large-repo",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 58338,
-    "open_issues_count": 940,
-    "forks_count": 3847
+    "stargazers_count": 58429,
+    "open_issues_count": 956,
+    "forks_count": 3862
   },
   {
     "full_name": "junaid33/opensource.builders",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "element-hq/element-web",
-    "stargazers_count": 11259,
-    "open_issues_count": 3279,
-    "forks_count": 2010
+    "stargazers_count": 11276,
+    "open_issues_count": 3276,
+    "forks_count": 2019
   },
   {
     "full_name": "linagora/linshare",
-    "stargazers_count": 497,
+    "stargazers_count": 499,
     "open_issues_count": 106,
     "forks_count": 87
   },
@@ -133,25 +139,25 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 143595,
+    "stargazers_count": 143781,
     "open_issues_count": 2322,
-    "forks_count": 27028
+    "forks_count": 27045
   },
   {
     "full_name": "benrugg/AI-Render",
-    "stargazers_count": 1106,
+    "stargazers_count": 1109,
     "open_issues_count": 24,
     "forks_count": 86
   },
   {
     "full_name": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
-    "stargazers_count": 12008,
+    "stargazers_count": 12014,
     "open_issues_count": 1,
     "forks_count": 1676
   },
   {
     "full_name": "ShivamShrirao/diffusers",
-    "stargazers_count": 1888,
+    "stargazers_count": 1887,
     "open_issues_count": 143,
     "forks_count": 507
   },
@@ -164,19 +170,13 @@
   {
     "full_name": "linagora/tmail-flutter",
     "stargazers_count": 329,
-    "open_issues_count": 364,
+    "open_issues_count": 362,
     "forks_count": 75
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 2606,
-    "open_issues_count": 24,
-    "forks_count": 251
-  },
-  {
-    "full_name": "gund/ng-dynamic-component",
-    "stargazers_count": 560,
-    "open_issues_count": 2,
-    "forks_count": 65
+    "stargazers_count": 2616,
+    "open_issues_count": 22,
+    "forks_count": 252
   }
 ]
